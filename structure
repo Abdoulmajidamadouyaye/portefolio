@@ -1,0 +1,16 @@
+mon-portfolio/
+│
+├── index.html          # Fichier principal HTML
+├── styles.css          # Feuille de style CSS
+├── script.js           # JavaScript pour les interactions
+│
+├── assets/             # Dossier pour les ressources
+│   ├── images/         # Images du portfolio
+│   │   ├── profile.jpg   # Photo de profil
+│   │   ├── project1.jpg  # Image du projet 1
+│   │   ├── project2.jpg  # Image du projet 2
+│   │   └── project3.jpg  # Image du projet 3
+│   │
+│   └── cv.pdf          # Votre CV à télécharger
+│
+└── README.md           # Documentation optionnelle
